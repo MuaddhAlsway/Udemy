@@ -1,0 +1,904 @@
+.header{
+    width: 1921px;
+    height: 70px;
+    background: white;
+    margin: -10px 0px 0px -10px;
+    box-shadow: 1px 1px 10px #a7a7a7;
+}
+
+
+.Logo img{
+    width: 90px;
+    margin: 20px 0px -30px 25px;
+}
+
+
+
+
+  .dropbtn {
+      background-color: transparent;
+      color: black;
+      padding: 16px;
+      font-size: 13px;
+      border: none;
+      cursor: pointer;
+      margin: -14px 0px 0px 125px;
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 371;
+      font-style: normal;
+    }
+    
+  .dropbtn:hover {
+      color: #8072e6;
+    }
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .dropdown-content {
+      display: none;
+      border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 300px;
+    min-height: 600px;
+    z-index: 1;
+    margin: 10px 0px 0px 130px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {
+    color: #8072e6;
+    
+}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: transparent;
+  }
+
+  .dropdown-content .Development .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 146px;
+
+  }
+  .dropdown-content .Business .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 185px;
+
+  }
+
+  .dropdown-content .FinaceAccounting .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 90px;
+
+  }
+  .dropdown-content .ITSoftware .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 150px;
+
+  }
+
+  .dropdown-content .Office .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 106px;
+
+  }
+  .dropdown-content .Personal .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 70px;
+
+  }
+  .dropdown-content .Design .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 195px;
+
+  }
+  .dropdown-content .Markting .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 178px;
+
+  }
+  .dropdown-content .Lifestyle .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 187px;
+
+  }
+  .dropdown-content .Photography .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 85px;
+
+  }
+  .dropdown-content .Fitness .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 103px;
+
+  }
+  .dropdown-content .Music .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 204px;
+
+  }
+  .dropdown-content .Teching .fa-angle-right{
+    font-size: 10px;
+    margin: 0px 0px 0px 90px;
+
+  }
+
+
+
+  .SearchIcon{
+    margin: -45px 0px 0px 230px;
+}
+
+.SearchIcon input{
+    width: 1250px;
+    height: 45px;
+    border-radius:  20px;
+    padding: 0px 0px 0px 50px;
+    border: 1px solid #000000;
+    
+}
+.SearchIcon1{
+    color: rgb(177, 177, 177);
+    margin: -30px 0px 0px 250px;
+    
+
+}
+.SearchIcon1 .fa-magnifying-glass{
+  font-size: 15px;
+}
+
+.UdemyBusinessALL{
+    margin: -35px 0px 0px 1350px;
+}
+.UdemyBusinessContainer {
+    background-color: transparent;
+    color: black;
+    padding: 16px;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    margin: 0px 0px 0px 130px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 571;
+    font-style: normal;
+  }
+  
+.UdemyBusinessContainer:hover {
+    color: #8072e6;
+  }
+  .UdemyBusiness {
+    position: relative;
+    display: inline-block;
+   
+  }
+  
+  .UdemyBusninessContent {
+    display: none;
+    border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    width: 300px;
+    height: 185px;
+    z-index: 1;
+    margin: 10px 0px 0px -40px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+  }
+  
+  .UdemyBusninessContent h4 {
+    color: black;
+    padding: 12px 20px 12px 40px;
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .UdemyBusninessContent button {
+    color: white;
+    padding: 15px 60px;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    background: #2d2f31;
+    border: none;
+    margin: 0px 0px 0px 10px;
+
+  }
+  .UdemyBusninessContent a:hover {
+    color: #8072e6;
+    
+}
+  
+  .UdemyBusiness:hover .UdemyBusninessContent {
+    display: block;
+  }
+  
+  .UdemyBusiness:hover .UdemyBusinessContainer {
+    background-color: transparent;
+  }
+
+
+  .YourCart{
+    margin: -50px 0px 0px 1620px;
+}
+.YourCartEmptyContainer {
+    background-color: transparent;
+    color: black;
+    padding: 16px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    margin: 0px 0px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+  }
+  .YourCartEmptyContent h4 {
+    color: rgba(153, 152, 152, 0.979);
+    padding: 0px 20px 12px 80px;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+  }
+  .YourCartEmptyContent .Keep {
+    color: #5022c3;
+    padding: 0px 20px 12px 90px;
+    margin: -10px 0px 0px 0px;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+  }
+.YourCartEmptyContent:hover {
+    color: #8072e6;
+  }
+  .YourCartEmpty {
+    position: relative;
+    display: inline-block;
+   
+  }
+  
+  .YourCartEmptyContent {
+    display: none;
+    border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    width: 300px;
+    height: 90px;
+    z-index: 1;
+    margin:5px 0px 0px -255px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+  }
+  
+ 
+ 
+  
+  .YourCartEmpty:hover .YourCartEmptyContent {
+    display: block;
+  }
+  
+  .YourCartEmpty:hover .YourCartEmptyContainer {
+    background-color: transparent;
+  }
+
+  .ContinarLoginProcessAndGlobal{
+    display: flex;
+    margin: -50px 0px 0px 1680px;
+  }
+  .ContinarLoginProcessAndGlobal > button{
+    padding: 10px 15px;
+    margin: 0px 8px 0px 0px;
+    background: white;
+    border: 1px black solid;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 671;
+    font-style: normal;
+  }
+  .ContinarLoginProcessAndGlobal  .B1{
+    background: black;
+    color: white;
+    font-weight: 871;
+
+  }
+  .ContinarLoginProcessAndGlobal  .fa-globe{
+   font-size: 18px;
+
+  }
+
+  .ContinerCover{
+    width: 1800px;
+    height: 600px;
+    background-image: url(Udemytech/billboard-desktop-v4.jpg);
+    background-size: contain;
+    margin: 5px 0px 0px 50px;
+  }
+.Title-Cover {
+  padding: 110px 0px 0px 290px;
+}
+
+.Title-Cover h4 {
+    font-size: 50px;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #2d2f31;
+    
+}
+.Describition-Cover{
+  margin: -55px 0px 0px 0px;
+  padding: 0px 0px 0px 290px;
+}
+
+.Describition-Cover h4{
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #2d2f31;
+}
+
+.ButtonCover{
+  margin: 0px 0px 0px 290px;
+}
+
+.ButtonCover button{
+  padding: 15px 120px;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background: #2d2f31;
+  border: none;
+  color: white;
+  
+}
+
+/*
+@media  (min-width: 360px) and (max-width: 810px) {
+    .h2 {
+        display: none;
+    }
+    body{
+        background: black;
+    }
+
+     input {
+      display: block;
+    }
+}
+    */
+
+.SoManyReasonToStart{
+  margin: 50px 0px 0px 250px;
+}
+
+.Title-SoManyReasonToStart{
+  margin: 75px 0px 0px 470px;
+  
+}
+
+.Title-SoManyReasonToStart h4{
+  font-size: 45px;
+  font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #2d2f31;
+}
+
+.icon-SoManyReasonToStart{
+  display: flex;
+  margin: 0px 0px 0px 175px;
+}
+
+.icon-SoManyReasonToStart > div{
+  padding: 0px 380px 0px 0px;
+}
+
+.icon-SoManyReasonToStart img{
+  width: 100px;
+}
+
+.Titleicon-SoManyReasonToStart{
+  display: flex;
+  
+}
+
+
+.Titleicon-SoManyReasonToStart > div h4{
+  margin: 10px 0px 0px 150px ;
+  padding: 0px 200px 0px 0px;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.DescribitonIconSoManyReasonToStart {
+  display: flex;
+  margin: -10px 0px 0px 70px;
+}
+
+.DescribitonIconSoManyReasonToStart > div h4{
+  padding: 0px 170px 0px 0px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+}
+
+.HowMuch{
+  background: #5022c3;
+  width: 1920px;
+  height: 200px;
+  margin: 60px 0px 0px -10px;
+}
+
+.Number{
+  display: flex;
+  margin: 0px 0px 0px 450px;
+  padding: 15px 0px 0px 0px;
+}
+
+.Number > div h4{
+  font-size: 35px;
+  color: white;
+  padding: 0px 170px 0px 0px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.NameNumber{
+  display: flex;
+  margin: -65px 0px 0px 455px;
+  padding: 0px 0px 0px 0px;
+}
+
+.NameNumber > div h4{
+  font-size: 15px;
+  color: white;
+  padding: 0px 165px 0px 0px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.NameNumber  .Coun{
+ 
+  margin: 20px 0px 0px 10px;
+  
+}
+
+/*
+.container  span{
+    color: #019f55;
+    border-bottom: 4px solid #019f55;
+    padding-bottom: 7px;
+
+}
+*/
+
+
+.HowBeginContinear{
+  margin:50px 0px 0px 520px;
+}
+
+.TitleHowToBegin{
+    margin: 50px 0px 0px 320px;
+}
+
+.TitleHowToBegin h4{
+  font-size: 45px;
+  color: #2d2f31;
+}
+
+.CategorieshHowToBegin{
+  display: flex;
+  margin: -50px 0px 0px 80px;
+ 
+}
+
+.CategorieshHowToBegin > div h4{
+  font-size: 22px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  padding: 0px 50px 0px 0px;
+}
+.CategorieshHowToBegin span{
+  border-bottom:2px solid #2d2f31;
+  padding-bottom:5px ;
+}
+.CategorieshHowToBegin  .Record{
+  color: #a7a7a7;
+}
+.CategorieshHowToBegin  .Record:hover{
+  color: #2d2f31;
+}
+
+.span hr{
+  color: #ebe8e8;
+  width: 515px;
+  margin: -24px 0px 0px 310px;
+}
+
+.DescribitionAboutFirst {
+  margin: 100px 0px 0px 10px;
+}
+
+.DescribitionAboutFirst h4{
+  font-size: 17px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.HowCanWeHelp{
+  margin: 10px 0px 0px 10px;
+}
+
+.HowCanWeHelp h4{
+  font-size: 17px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.DescribitionAboutSecond {
+  margin: 5px 0px 0px 10px;
+}
+
+.DescribitionAboutSecond h4{
+  font-size: 17px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.imageAdd{
+  margin: -410px 0px 0px 480px;
+}
+
+.ContinaerCreaterUdemy{
+  background: #f7f9fa;
+  width: 1920px;
+  height: 400px;
+  margin: 80px 0px 20px -10px;
+}
+
+.ScrollbarContainer{
+  width: 850px;
+  height: 400px;
+  overflow-y: scroll;
+  overflow-x:scroll;
+  scrollbar-color: transparent transparent;
+  margin: 0px 0px 0px 600px;
+}
+.ScrollbarContainer:hover{
+ 
+ 
+  scrollbar-color: transparent transparent;
+  
+}
+.Quotes h4{
+  margin: -350px 0px 0px 420px;
+  color: #2d2f31;
+  font-size: 23px;
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.NameCreater h4{
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 80px 0px 0px 420px;
+
+}
+
+.JobCreater h4{
+  margin:10px 0px 0px 420px;
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #717579;
+}
+
+.Second{
+  margin: -370px 0px 0px 850px;
+  width: 850px;
+}
+
+.Quotes1 h4{
+  margin: -350px 0px 0px 420px;
+  color: #2d2f31;
+  font-size: 23px;
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.NameCreater1 h4{
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 85px 0px 0px 420px;
+
+}
+
+.JobCreater1 h4{
+  margin:10px 0px 0px 420px;
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #717579;
+}
+
+
+.Third{
+  margin: -374px 0px 0px 1720px;
+  width: 820px;
+}
+
+.Quotes3 h4{
+  margin: -352px 0px 0px 420px;
+  color: #2d2f31;
+  font-size: 23px;
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.NameCreater3 h4{
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin: 60px 0px 0px 420px;
+
+}
+
+.JobCreater3 h4{
+  margin:10px 0px 0px 420px;
+  font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: #717579;
+}
+
+.LastPart{
+  display: flex;
+  margin: 120px 0px 0px 80px;
+}
+
+.Title1{
+  font-size: 45px;
+ padding: 60px 0px 0px 150px;
+}
+
+.Describtion {
+  margin: -50px 0px 0px 130px;
+}
+.Describtion h4{
+  font-size: 18px;
+   font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.Describtion h4 strong{
+  
+  font-weight: 600;
+  
+}
+
+.Link{
+  margin: 50px 0px 0px 250px;
+}
+
+.Link h4{
+  color: #5022c3;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.img2 img{
+  margin: -350px 0px 0px 800px;
+}
+
+.ActuallyLastPart{
+  width: 1920px;
+  height: 320px;
+  margin:120px 0px 0px -10px;
+  background:#f7f9fa;
+}
+
+.Title{
+  padding: 30px 0px 0px 750px;
+}
+
+.Title h4{
+font-size: 40px;
+}
+
+.Describition{
+  margin: -30px 0px 0px 760px;
+}
+
+.Describition h4{
+  font-size: 19px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.Button {
+  margin: 0px 0px 50px 820px;
+}
+.Button button{
+  padding: 12px 120px;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  background: #2d2f31;
+  border: none;
+  color: white;
+}
+
+.Udemy{
+  width: 1920px;
+  height: 300px;
+  background: #2d2f31;
+  margin: 0px 0px -15px -8px;
+}
+.List1{
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px 0px 0px;
+  padding: 30px 0px 0px 0px;
+ 
+
+
+}
+.List1 a{
+  padding: 5px 0px 5px 40px;
+  color: white;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+}
+
+.List2{
+  display: flex;
+  flex-direction: column;
+  margin: -165px 0px 0px 260px;
+  padding: 30px 0px 0px 0px;
+ 
+
+
+}
+.List2 a{
+  padding: 5px 0px 5px 40px;
+  color: white;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+}
+
+.List3{
+  display: flex;
+  flex-direction: column;
+  margin: -165px 0px 0px 260px;
+  padding: 30px 0px 0px 0px;
+ 
+
+
+}
+.List3 a{
+  padding: 5px 0px 5px 280px;
+  color: white;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+}
+
+
+.LogoUdemy{
+  margin: 60px 0px 0px 45px;
+}
+.LogoUdemy img{
+  width: 90px;
+}
+
+.ButtonLanguage{
+  margin: -230px 0px 0px 1750px;
+}
+
+.ButtonLanguage button{
+  padding: 12px 20px;
+  border: white 1px solid; 
+  color: white;
+  background: transparent;
+}
+
+
+
+.copyWriting h4{
+  margin: 180px 0px 0px 1730px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px;
+}

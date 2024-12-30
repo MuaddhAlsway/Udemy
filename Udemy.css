@@ -1,0 +1,1584 @@
+
+.header{
+    box-shadow: 1px 1px 5px  rgb(187, 187, 187);
+    height: 70px;
+    margin: -20px 0px 0px -10px;
+    width: 1920px;
+}
+
+.Logo{
+    margin: 20px 0px 0px 20px;
+    padding: 20px 0px 0px 0px;
+}
+
+.Logo img{
+    width: 90px;
+}
+
+
+.TitleHeader{
+    margin: -8px 0px 0px 0px;
+}
+
+.TitleHeader h4{
+    font-size: 13px;
+    margin: -30px 0px 0px 140px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.SearchIcon{
+    margin: -30px 0px 0px 230px;
+}
+
+.SearchIcon input{
+    width: 1100px;
+    height: 45px;
+    border-radius:  20px;
+    padding: 0px 0px 0px 25px;
+    border: 1px solid #000000;
+    
+}
+.SearchIcon1{
+    color: rgb(177, 177, 177);
+    margin: -30px 0px 0px 250px;
+    
+
+}
+.SearchIcon1 .fa-magnifying-glass{
+  font-size: 15px;
+}
+
+.UdemyBusiness h4{
+    margin: -15px 0px 0px 1350px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.UdemyBusiness1 h4{
+    margin: -17px 0px 0px 1480px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.ShoppingBag{
+    margin: -20px 0px 0px 1620px;
+}
+
+.ShoppingBag .fa-cart-shopping{
+    font-size: 20px;
+}
+
+.LogSign {
+    margin: -30px 0px 0px 1675px;
+}
+
+.LogSign .LogIn{
+    background: white;
+    color: black;
+    border: 1px black solid;
+}
+.LogSign button{
+    padding: 12px 20px;
+    background: black;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+
+.WorldWide{
+    margin: -30px 0px 0px 1860px;
+}
+
+
+.Learnig{
+    overflow-x: scroll;
+  overflow-y: scroll;
+  margin: 1px 0px 0px 270px;
+  width: 1345px;
+  height: 400px;
+
+}
+
+.Learnig:hover{
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scrollbar-color: transparent transparent ;  
+
+}
+
+
+
+.img1 {
+    background-image: url(Img/Udemy-img.jpg);
+    width: 1345px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.LearningThatGetsYou{
+    width: 450px;
+    height: 180px;
+    background: white;
+    margin: -340px 0px 0px 70px;
+}
+
+
+
+.Title-Learning h4{
+   margin: -150px 0px 0px 105px;
+   font-size: 35px;
+}
+
+.DescribtionLearning h4{
+    margin: 20px 0px 0px 100px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+
+
+.img2 {
+    background-image: url(Img/Udemy-img2.jpg);
+    width: 1345px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: -185px 0px 0px 1345px;
+}
+
+.LearningThatGetsYou1{
+    width: 450px;
+    height: 290px;
+    background: white;
+    margin: -360px 0px 0px 1400px;
+}
+
+
+
+.Title-Learning1 h4{
+   margin: -250px 0px 0px 1430px;
+   font-size: 35px;
+   width: 1000px;
+}
+
+.DescribtionLearning1 h4{
+    margin: 20px 0px 0px 1430px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    width: 1000px;
+
+}
+.ButtonPlan {    width: 1000px;
+}
+.ButtonPlan button{
+    margin: 0px 0px 0px 1420px;
+    padding: 10px;
+
+}
+.ButtonPlan2 button{
+    margin: 0px 0px 0px  1420px;
+}
+
+.ButtonPlan h4{
+    margin: 30px 0px 0px 1430px;
+    border: 1px black solid;
+    
+    
+}
+
+.ButtonPlan2 h4{
+    margin: -18px 0px 0px 1650px;
+    width: 1000px;
+}
+
+.TitleContainerCompanies h4{
+    margin: 100px 0px 0px 600px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.IconContainerCompanies {
+    display: flex;
+    margin: 0px 0px 0px 250px;
+}
+
+.IconContainerCompanies > div{
+    padding: 100px 50px 0px 80px;
+}
+
+
+
+.ABoardSelectionOfCourse{
+    margin: 50px 0px 0px 320px;
+}
+
+
+.ABoardSelectionOfCourse h4{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+}
+
+
+.Title-AboardSelectionOfCourse{
+    margin: 0px 0px 0px 320px;
+}
+
+.Title-AboardSelectionOfCourse h4{
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.OnlineVideoCourses{
+   display: flex; 
+   flex-wrap: nowrap;
+   margin: 0px 0px 0px 320px;
+}
+
+.OnlineVideoCourses > div{
+    margin: 0px 50px 0px 0px;
+    color: rgb(156, 156, 156);
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+}
+
+
+.OnlineVideoCourses > .P1{
+    margin: 0px 50px 0px 0px;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+.OnlineVideoCourses   h4:hover{
+    color: black;
+}
+
+
+
+.Expand{
+    margin: 0px 0px 0px 320px;
+    width: 1300px;
+    height: 500px;
+    background: transparent;
+    border: 1px #dadada solid;
+}
+
+
+.Title-Expand h4{
+    margin: 40px 0px 0px 50px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 23px;
+}
+
+.Describition-Expand h4{
+    margin: 10px 0px 0px 50px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.ButtonExpand{
+    margin: 20px 0px 0px 50px;
+}
+.ButtonExpand button{
+    padding: 10px 10px;
+    background: transparent;
+    color: black;
+    border: 1px black solid;
+}
+
+.ContianerPaython{
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin: 1px 0px 0px 0px;
+    width: 1550px;
+    height: 400px;
+    background: transparent;
+}
+
+
+
+.ContianerPaython:hover{
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scrollbar-color: transparent transparent ;  
+
+}
+.ContianerPaython h4{
+    margin: 0px 0px 0px 1000px;
+}
+
+
+.img-CompletePaython{
+    background-image: url(Contianer/Paython.jpg);
+    width: 215px;
+    height: 120px;
+    background-size: contain;
+    border: 1px rgb(190, 190, 190) solid;
+    background-repeat: no-repeat;
+    margin: 25px 0px 10px 50px;
+}
+
+.CompletePaython h4{
+    margin: 0px 0px 5px 50px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.NamePaython h5{
+    margin: 0px 0px 0px 50px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 200;
+    color: rgb(145, 145, 145);
+}
+.NumberUser h4 {
+    margin: -12px 0px 0px 135px;
+    font-size: 13px;
+}
+
+.Number h4{
+    margin: 10px 0px 0px 50px;
+}
+.Star {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -15px 0px 0px 75px;
+    font-size: 10px;
+    color: #b4690e;
+}
+
+.Price{
+    margin: 10px 0px 0px 0px;
+    font-family: 500;
+}
+
+
+
+
+.img-CompletePaython1{
+    background-image: url(Contianer/100Days\ of\ Paython.jpg);
+    width: 215px;
+    height: 120px;
+    background-size: contain;
+    border: 1px rgb(190, 190, 190) solid;
+    background-repeat: no-repeat;
+    margin: -245px 0px 10px 280px;
+}
+
+.CompletePaython1 h4{
+    margin: 0px 0px 5px 290px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.NamePaython1 h5{
+    margin: 0px 0px 0px 290px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 200;
+    color: rgb(145, 145, 145);
+}
+.NumberUser1 h4 {
+    margin: -12px 0px 0px 415px;
+    font-size: 13px;
+}
+
+.Number1 h4{
+    margin: 10px 0px 0px 520px;
+}
+.Star1 {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -15px 0px 0px 315px;
+    font-size: 10px;
+    color: #b4690e;
+}
+
+.Price1{
+    margin: 10px 0px 0px 1px;
+    font-family: 500;
+}
+
+.Button button{
+    margin: 0px 0px 0px 292px;
+    background: #eceb98;
+    border: none;
+    padding: 5px ;
+    font-weight: 500
+}
+
+
+
+.img-CompleteAutomate{
+    background-image: url(Contianer/Automate.jpg);
+    width: 215px;
+    height: 120px;
+    background-size: contain;
+    border: 1px rgb(190, 190, 190) solid;
+    background-repeat: no-repeat;
+    margin: -271px 0px 10px 510px;
+}
+
+.CompleteAutomate h4{
+    margin: 0px 0px 5px 520px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.NameAutomate h5{
+    margin: 0px 0px 0px 520px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 200;
+    color: rgb(145, 145, 145);
+}
+.NumberUserAutomate h4 {
+    margin: -21px 0px 10px 645px;
+    font-size: 13px;
+}
+
+.NumberAutomate2 h4{
+    margin: 10px 0px 0px 290px;
+}
+.StarAutomate2 {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -15px 0px 10px 545px;
+    font-size: 10px;
+    color: #b4690e;
+}
+
+.PriceAutomate1{
+    margin: 10px 0px 0px 1px;
+    font-family: 500;
+}
+
+
+
+
+.img-CompletePythonForDataScience{
+    background-image: url(Contianer/Paython.1.jpg);
+    width: 215px;
+    height: 120px;
+    background-size: contain;
+    border: 1px rgb(190, 190, 190) solid;
+    background-repeat: no-repeat;
+    margin: -245px 0px 10px 750px;
+}
+
+.CompletePythonForDataScience h4{
+    margin: 0px 0px 5px 750px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.NamePythonForDataScience h5{
+    margin: 0px 0px 0px 750px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 200;
+    color: rgb(145, 145, 145);
+}
+.NumberUserPythonForDataScience h4 {
+    margin: -21px 0px 10px 885px;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+
+    
+}
+
+.NumberPythonForDataScience h4{
+    margin: 10px 0px 0px 755px;
+}
+.StarPythonForDataScience {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -15px 0px 10px 780px;
+    font-size: 10px;
+    color: #b4690e;
+}
+
+.PricePythonForDataScience h4{
+    margin: 10px 0px 0px 755px;
+    font-family: 500;
+}
+
+
+
+
+
+
+.img-PythonMasterClass{
+    background-image: url(Contianer/Paython\ -\ Master\ Programming.jpg);
+    width: 215px;
+    height: 120px;
+    background-size: contain;
+    border: 1px rgb(190, 190, 190) solid;
+    background-repeat: no-repeat;
+    margin: -245px 0px 10px 980px;
+}
+
+.PythonMasterClass h4{
+    margin: 0px 0px 5px 990px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+    width: 200px;
+}
+
+.NamePythonMasterClass h5{
+    margin: 0px 0px 0px 990px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 200;
+    color: rgb(145, 145, 145);
+    width: 200px;
+
+}
+.NumberUserPythonMasterClass h4 {
+    margin: -21px 0px 10px 1140px;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+
+    
+}
+
+.NumberPythonMasterClass h4{
+    margin: 10px 0px 0px 990px;
+}
+.StarPythonMasterClass  {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: -15px 0px 10px 1015px;
+    font-size: 10px;
+    color: #b4690e;
+}
+
+.PricePythonMasterClass h4{
+    margin: 10px 0px 0px 990px;
+    font-family: 500;
+}
+
+
+.HowLearnersLikYouAreAchievingTheirGoals{
+    margin:80px 0px 0px -10px;
+    background: #f7f9fa;
+    height: 500px;
+
+   
+}
+
+.Title-HowLearnersLikYouAreAchievingTheirGoals h4{
+    margin: 0px 0px 0px 320px;
+    padding: 20px 0px 0px 0px;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+
+}
+
+.Comment{
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin: 1px 0px 0px 0px;
+    width: 1750px;
+    height: 400px;
+    background: transparent;
+}
+
+
+
+.Pround{
+    border: 1px #dadada solid;
+    width: 390px;
+    height: 300px;
+    margin: 50px 0px 0px 320px;
+    background: white;
+}
+
+.Comment:hover{
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scrollbar-color: transparent transparent ;  
+
+}
+
+.TitlePound h4{
+    
+    margin: 40px 0px 0px 25px;
+    background: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.TitlePound span{
+    font-weight: 500;
+}
+
+.CircleName{
+    margin: 25px 0px 0px 20px;
+    
+}
+
+.CircleName button{
+    padding: 6px 5px;
+    color: white;
+    background: black;
+    border: none;
+    border-radius: 40px;
+}
+
+
+.NameFirstCircle {
+    margin: -45px 0px 0px 70px;
+}
+
+.NameFirstCircle h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.HR .hr-1{
+    width: 350px;
+    color: #cacaca;
+}
+
+.ButtonUltimateAWS{
+    margin: 30px 0px 0px 20px;
+    color: #572bc5;
+}
+
+
+.ButtonUltimateAWS .fa-circle-chevron-right{
+    font-size: 25px;
+}
+
+.UltimateAWS h4{
+    color: #572bc5;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.UltimateAWS{
+    margin: -55px 0px 0px 60px;
+    
+}
+
+
+.Pround1{
+    border: 1px #dadada solid;
+    width: 390px;
+    height: 300px;
+    margin: -300px 0px 0px 730px;
+    background: white;
+}
+
+
+
+.Comment1:hover{
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scrollbar-color: transparent transparent ;  
+
+}
+
+.TitlePound1 h4{
+    
+    margin: 40px 0px 60px 25px;
+    background: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.TitlePound1 span{
+    font-weight: 500;
+}
+
+.CircleName1{
+    margin: 25px 0px 0px 20px;
+    
+}
+
+.CircleName1 button{
+    padding: 6px 5px;
+    color: white;
+    background: black;
+    border: none;
+    border-radius: 40px;
+}
+
+
+.NameFirstCircle1 {
+    margin: -45px 0px 0px 70px;
+}
+
+.NameFirstCircle1 h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.HR .hr-1{
+    width: 350px;
+    color: #cacaca;
+}
+
+.ButtonUltimateAWS1{
+    margin: 30px 0px 0px 20px;
+    color: #572bc5;
+}
+
+
+.ButtonUltimateAWS1 .fa-circle-chevron-right{
+    font-size: 25px;
+}
+
+.UltimateAWS1 h4{
+    color: #572bc5;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.UltimateAWS1{
+    margin: -55px 0px 0px 60px;
+    
+}
+
+
+.Pround2{
+    border: 1px #dadada solid;
+    width: 390px;
+    height: 300px;
+    margin: -300px 0px 0px 1140px;
+    background: white;
+}
+
+
+
+.Comment2:hover{
+  overflow-x: scroll;
+  overflow-y: scroll;
+  scrollbar-color: transparent transparent ;  
+
+}
+
+.TitlePound2 h4{
+    
+    margin: 40px 0px 60px 25px;
+    background: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.TitlePound2 span{
+    font-weight: 500;
+}
+
+.CircleName2{
+    margin: -20px 0px 0px 20px;
+    
+}
+
+.CircleName2 button{
+    padding: 6px 5px;
+    color: white;
+    background: black;
+    border: none;
+    border-radius: 40px;
+}
+
+
+.NameFirstCircle2 {
+    margin: -45px 0px 0px 70px;
+}
+
+.NameFirstCircle2 h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.HR .hr3{
+    width: 350px;
+    color: #cacaca;
+}
+.HR1{
+    margin: 0px 0px 25px 0px;
+}
+
+.ButtonUltimateAWS2{
+    margin: 10px 0px 0px 20px;
+    color: #572bc5;
+}
+
+
+.ButtonUltimateAWS2 .fa-circle-chevron-right{
+    font-size: 25px;
+}
+
+.UltimateAWS2 h4{
+    color: #572bc5;
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.UltimateAWS2{
+    margin: -55px 0px 0px 60px;
+    
+}
+
+.TopCategories{
+    margin: 0px 0px 0px 300px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.Title-TopCategories h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.Container {
+    display: flex;
+    flex-direction:row;
+}
+
+.Container img{
+    width: 250px;
+    margin: 10px 50px 0px 0px;
+}
+
+.ContainerTitle{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0px 0px 0px;
+}
+
+.ContainerTitle > h4{
+   padding: 0px 250px 0px 0px;
+}
+
+.ContainerTitle .Markt{
+    margin: 20px -70px 0px 0px;
+}
+
+.ContainerTitle .Markt2{
+    margin: 20px -16px 0px 20px;
+}
+.ContainerTitle1{
+    display: flex;
+    margin: 0px 0px 0px 0px;
+}
+
+.ContainerTitle1  h4{
+    margin: 0px 200px 0px 0px;
+}
+
+
+
+.ContainerTitle1{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0px 0px 0px;
+}
+
+.ContainerTitle1 > h4{
+   padding: 20px 50px 0px 0px;
+}
+
+.ContainerTitle1 .Markt3{
+    margin: 5px -70px 0px -120px;
+}
+
+.ContainerTitle1 .Markt4{
+    margin: 5px 150px 0px 250px;
+}
+
+
+
+
+
+.ContainerFeaturesCatogries{
+    padding: 10px 0px 5px 290px;
+    margin: 50px 0px 0px 0px;
+    width: 1600px;
+    height: 450px;
+    background: #f7f9fa;
+    
+}
+
+
+.TitleContainerFeaturesCatogries {
+    margin: 50px 0px 0px 0px;
+}
+
+.TitleContainerFeaturesCatogries h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+
+
+}
+
+.TitleFeaturesAll {
+    display: flex;
+    margin: 0px 0px 0px 0px;
+}
+
+.TitleFeaturesAll > h4{
+    padding: 0px 240px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+.TitleFeaturesAll .Out{
+    margin: 20px -50px 0px 0px;
+}
+
+
+.LinkFeatureAll1{
+    display: flex;
+}
+
+.LinkFeatureAll1 > a{
+    padding: 0px 285px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.LinkFeatureAll1 .Out1{
+    margin: 1px -67px 0px -100px;
+}
+
+
+.LinkFeatureAllLearning{
+    display: flex;
+}
+
+.LinkFeatureAllLearning > a{
+    padding: 10px 240px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #a8aaae;
+    text-decoration: none;
+
+}
+.LinkFeatureAllLearning .Out1{
+    margin: 1px -25px 0px -35px;
+}
+
+
+.LinkFeatureAll2{
+    display: flex;
+}
+
+.LinkFeatureAll2 > a{
+    padding: 15px 240px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.LinkFeatureAll2 .Out1{
+    margin: 1px -35px 0px -25px;
+}
+
+.LinkFeatureAll2 .Out2{
+    margin: 1px 60px 0px -25px;
+}
+
+
+.LinkFeatureAllLearning1{
+    display: flex;
+}
+
+.LinkFeatureAllLearning1 > a{
+    padding: 10px 175px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #a8aaae;
+    text-decoration: none;
+
+}
+
+.LinkFeatureAllLearning1 .Out2{
+    margin: 1px -5px 0px 65px;
+}
+
+.LinkFeatureAllLearning1 .Out1{
+    margin: 1px 35px 0px 35px;
+}
+
+
+
+.LinkFeatureAll3{
+    display: flex;
+}
+
+.LinkFeatureAll3 > a{
+    padding: 15px 245px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+.LinkFeatureAll3 .Out1{
+    margin: 1px -35px 0px 30px;
+}
+
+.LinkFeatureAll3 .Out2{
+    margin: 1px -5px 0px -25px;
+}
+
+
+.LinkFeatureAllLearning2{
+    display: flex;
+}
+
+.LinkFeatureAllLearning2 > a{
+    padding: 10px 240px 0px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    color: #a8aaae;
+    text-decoration: none;
+
+}
+
+.LinkFeatureAllLearning2 .Out2{
+    margin: 1px -50px 0px 5px;
+}
+
+.LinkFeatureAllLearning2 .Out1{
+    margin: 1px -25px 0px 20px;
+}
+
+.Button1 button{
+    margin: 35px 0px 0px 0px;
+    padding: 8px 10px;
+    border: 1px rgb(145, 145, 145) solid;
+    background: transparent;
+    font-weight: 400;
+}
+
+.BusinessUdemy{
+    margin: 90px 0px 0px 500px;
+}
+
+
+.img-BusinessUdemy {
+    margin: 0px 0px 0px 0px;
+}
+
+.img-BusinessUdemy img{
+    width: 170px;
+}
+
+
+
+.UpSkill {
+    margin: -35px 0px 0px 0px;
+}
+.UpSkill h4{
+    font-size: 35px;
+}
+
+
+.List{
+    margin: -25px 0px 0px -13px;
+}
+
+.List ul li{
+    padding: 5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.GetUdemyBusiness{
+    margin: 0px 0px 0px 10px;
+}
+
+.GetUdemyBusiness button{
+    padding: 10px 12px;
+    font-size: 18px;
+    background: #2d2f31;
+    color: white;
+    border: none;
+}
+
+.LearnMore {
+    margin: -42px 0px 0px 210px;
+}
+
+.LearnMore button{
+    padding: 10px 13px;
+    background: white;
+    color: black;
+    border: black 1px solid;
+    font-weight: 500;
+}
+
+
+.Img-UdemyBusiness{
+    margin: -355px 0px 0px 460px;
+}
+.Img-UdemyBusiness img{
+    width: 400px;
+}
+
+.SlideInventer{
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin: 60px 0px 0px 515px;
+    width: 850px;
+    height: 280px;
+    background: white;
+    border: 1px rgb(192, 192, 192) solid;
+}
+
+.SlideInventer:hover{
+    overflow-x: hidden;
+  overflow-y: hidden;
+  scrollbar-color: transparent transparent ;  
+}
+
+
+
+.Pround{
+    border: 1px #dadada solid;
+    width: 390px;
+    height: 300px;
+    margin: 50px 0px 0px 320px;
+    background: white;
+}
+
+.ContianerSlide .Describition h4 {
+    font-size: 18px;
+    margin: 50px 0px 0px 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #979797;
+}
+
+
+.ContianerSlide .Describition span {
+   color: black;
+}
+
+.ReadFullStory h4{
+    margin: 50px 0px 0px 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5022c3;
+
+}
+
+
+.img-JimHemgen{
+    margin: -220px 0px 0px 570px;
+}
+.img-JimHemgen img{
+    width: 120px;
+    border-radius: 100px;
+
+}
+
+.Title-JimHemgen h4{
+    margin: 10px 0px 0px 580px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #0a0a0a;
+}
+
+.Describiton h4{
+    margin: 10px 0px 0px 595px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #5a5a5a;
+
+}
+
+.Title-BoozAllen{
+    margin: 0px 0px 0px 565px;
+}
+
+.Title-BoozAllen h4{
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #5a5a5a;
+}
+
+
+.ContianerSlide1 {
+    margin: -250px 0px 0px 755px;
+    width: 750px;
+}
+
+.ContianerSlide1 .Describition h4 {
+    font-size: 18px;
+    margin: 50px 0px 0px 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #979797;
+}
+
+
+.ContianerSlide1 .Describition span {
+   color: black;
+}
+
+.ReadFullStory h4{
+    margin: 50px 0px 0px 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5022c3;
+
+}
+
+
+.img-JimHemgen{
+    margin: -220px 0px 0px 570px;
+}
+.img-JimHemgen img{
+    width: 120px;
+    border-radius: 100px;
+
+}
+
+.Title-JimHemgen h4{
+    margin: 10px 0px 0px 580px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #0a0a0a;
+}
+
+.Describiton1 h4{
+    margin: 10px 0px 0px 535px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #5a5a5a;
+    font-size: 14px;
+
+}
+
+.Title-BoozAllen{
+    margin: 0px 0px 0px 565px;
+}
+
+.Title-BoozAllen h4{
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #5a5a5a;
+}
+
+.TitleContainerJim{
+    padding: 30px 0px 0px 50px;
+}
+
+
+.TitleContainerJim h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #5a5a5a;
+    font-size: 14px;
+}
+
+.TitleContainerJim span{
+   color: black;
+   font-weight: 500;
+
+}
+
+.ReadMore h4{
+    margin: 80px 0px 0px 50px;
+    color: #5022c3;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img-ContainerJim {
+    margin: -210px 0px 0px 550px;
+}
+
+.img-ContainerJim img{
+    width: 120px;
+    border-radius: 100px;
+}
+
+.Name-JimHemgen{
+    margin: 0px 0px 0px 560px;
+}
+
+.Name-JimHemgen h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.Position-JimHemgen {
+    margin: -17px 0px 0px 578px;
+}
+.Position-JimHemgen h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: #979797;
+}
+.Booz{
+    margin: -10px 0px 0px 545px;
+}
+.Booz h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: #979797;
+   
+}
+
+.ViewMoreCustomerStories{
+    margin: 50px 0px 0px 860px;
+}
+.ViewMoreCustomerStories h4{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
+
+
+.AngelArrow {
+    margin: -35px 0px 15px 1060px;
+}
+
+.AngelArrow .fa-angle-right{
+    margin: 0px 0px 0px 0px;
+}
+
+.INSTRUCTOR{
+    margin: 100px 0px 0px -5px;
+    background: white;
+    width: 1910px;
+    height: 450px;
+}
+
+.IMG-INSTRUCTOR {
+    margin: 10px 0px 0px 450px;
+}
+.IMG-INSTRUCTOR img{
+   width: 400px;
+   margin: -10px 0px 0px 0px;
+}
+
+.Become h4{
+    margin: -250px 0px 0px 880px;
+    font-size: 35px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.DescribitonBecome{
+    margin: 0px 0px 0px 880px;
+}
+.DescribitonBecome h4{
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.ButtonDescribiton{
+    margin: 0px 0px 0px 880px;
+}
+.ButtonDescribiton button{
+    padding: 12px 15px;
+    background: black;
+    color: white;
+    font-size: 18px;
+    border: none;
+}
+
+.Udemy{
+    width: 1920px;
+    height: 300px;
+    background: #2d2f31;
+    margin: 0px 0px -15px -8px;
+}
+.List1{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
+   
+
+
+}
+.List1 a{
+    padding: 5px 0px 5px 40px;
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.List2{
+    display: flex;
+    flex-direction: column;
+    margin: -165px 0px 0px 260px;
+    padding: 30px 0px 0px 0px;
+   
+
+
+}
+.List2 a{
+    padding: 5px 0px 5px 40px;
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.List3{
+    display: flex;
+    flex-direction: column;
+    margin: -165px 0px 0px 260px;
+    padding: 30px 0px 0px 0px;
+   
+
+
+}
+.List3 a{
+    padding: 5px 0px 5px 280px;
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+}
+
+
+.LogoUdemy{
+    margin: 60px 0px 0px 45px;
+}
+.LogoUdemy img{
+    width: 90px;
+}
+
+.ButtonLanguage{
+    margin: -230px 0px 0px 1750px;
+}
+
+.ButtonLanguage button{
+    padding: 12px 20px;
+    border: white 1px solid; 
+    color: white;
+    background: transparent;
+}
+
+
+
+.copyWriting h4{
+    margin: 180px 0px 0px 1730px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+}

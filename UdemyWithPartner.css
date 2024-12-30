@@ -1,0 +1,1312 @@
+.Header{
+    width: 1922px;
+    height: 75px;
+    background: #ffffff;
+    margin: -10px 0px 0px -10px;
+    box-shadow: 1px 1px 10px rgb(219, 219, 219);
+    
+}
+.Logo {
+    margin: 0px 0px 0px 0px;
+    padding: 25px 0px 0px 380px;
+}
+.Logo img{
+    width: 165px;
+}
+
+
+.WeDo{
+  margin: -25px 0px 0px 515px;
+}
+
+.dropbtn {
+    background-color: transparent;
+    color: black;
+   padding-bottom: 18px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    margin: -14px 0px 0px 110px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 471;
+    font-style: normal;
+  }
+  
+.dropbtn:hover {
+    color: #8072e6;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 700px;
+    min-height: 330px;
+    z-index: 1;
+    margin: 7px 0px 0px 120px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+    font-size: 13px;
+  }
+  .dropdown-content h4 {
+    color: gray;
+    padding: 10px 15px 0px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content .h10 {
+    color: gray;
+    margin: -295px 0px 15px 300px;
+    padding: 10px 15px 0px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content .h11 {
+    color: gray;
+    margin: -233px 0px 15px 550px;
+    padding: 10px 15px 0px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content .a1 {
+    color: black;
+    margin: 0px 0px 0px 300px;
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content .a2 {
+    color: black;
+    margin: 0px 0px 0px 550px;
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content a:hover {
+    color: #8072e6;
+    
+}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: transparent;
+  }
+
+
+
+  .HowWe{
+    margin: -37px 0px 0px 615px;
+  }
+  
+  .dropbtn2 {
+      background-color: transparent;
+      color: black;
+      font-size: 14px;
+      border: none;
+      cursor: pointer;
+      padding-bottom: 17px;
+      margin: -14px 0px 0px 125px;
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 471;
+      font-style: normal;
+      
+    }
+    
+  .dropbtn2:hover {
+      color: #8072e6;
+    }
+    .dropdown2 {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .dropdown-content2 {
+      display: none;
+      border: 1px rgba(180, 180, 180, 0.486) solid;
+      position: absolute;
+      background-color: #ffffff;
+      min-width: 250px;
+      min-height: 180px;
+      z-index: 1;
+      margin: 7px 0px 0px 130px;
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 371;
+      font-style: normal;
+      font-size: 13px;
+    }
+    .dropdown-content2 h4 {
+      color: gray;
+      padding: 10px 15px 0px 15px;
+      text-decoration: none;
+      display: block;
+    }
+    
+    .dropdown-content2 a {
+      color: black;
+      padding: 8px 16px 8px 16px;
+      text-decoration: none;
+      display: block;
+    }
+    .dropdown-content2 .ECO {
+      margin-top: 10px;
+      margin-bottom: 5px;
+    }
+
+    .dropdown-content2 a:hover {
+      color: #8072e6;
+      
+  }
+    
+    .dropdown2:hover .dropdown-content2 {
+      display: block;
+    }
+    .dropdown2:hover .dropdown-content2 {
+      display: block;
+    }
+    
+    .dropdown2:hover .dropbtn2 {
+      background-color: transparent;
+    }
+.dropdown-content2 .Learn{
+  margin: -120px 0px 0px 0px;
+}
+
+
+  .dropbtn1 {
+    background-color: transparent;
+    color: black;
+    padding: 0px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    margin: -150px 0px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+  }
+
+  .dropbtn1 .fa-angle-right {
+    margin: 0px 0px 0px 52px;
+    font-size: 12px;
+  }
+  
+.dropbtn1:hover {
+    color: #8072e6;
+  }
+  .dropdown1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content1 {
+    display: none;
+    border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 300px;
+    min-height: 410px;
+    z-index: 1;
+    margin: -73px 0px 0px 250px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+    font-size: 13px;
+  }
+  .dropdown-content1 h4 {
+    color: gray;
+    padding: 10px 15px 0px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content1 .On {
+    margin-top: 15px;
+  }
+  .dropdown-content1 .Coo {
+    margin-bottom:8px;
+    margin-top: 10px;
+  }
+  .dropdown-content1 a {
+    color: black;
+
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content1 span {
+    color: #a538f0;
+    font-weight: 500;
+  }
+  .dropdown-content1 a:hover {
+    color: #8072e6;
+    
+}
+  
+  .dropdown1:hover .dropdown-content1 {
+    display: block;
+  }
+  .dropdown1:hover .dropdown-content1 {
+    display: block;
+  }
+  
+  .dropdown1:hover .dropbtn1 {
+    background-color: transparent;
+  }
+
+  .dropdown3 {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content3 {
+    display: none;
+    border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 300px;
+    min-height: 223px;
+    z-index: 1;
+    margin: -133px 0px 0px 250px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+    font-size: 13px;
+  }
+  .dropdown-content3 h4 {
+    color: gray;
+    padding: 10px 15px 0px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content3 .On1 {
+    margin-top: 15px;
+  }
+  .dropdown-content3 .Coo1 {
+    margin-bottom:8px;
+    margin-top: 10px;
+  }
+  .dropdown-content3 a {
+    color: black;
+
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content3 span {
+    color: #a538f0;
+    font-weight: 500;
+  }
+  .dropdown-content3 a:hover {
+    color: #8072e6;
+    
+}
+  
+  .dropdown3:hover .dropdown-content3 {
+    display: block;
+  }
+  .dropdown3:hover .dropdown-content3 {
+    display: block;
+  }
+  
+  .dropdown3:hover .dropbtn3 {
+    background-color: transparent;
+  }
+
+  .dropbtn3 .fa-angle-right {
+    margin: 0px 0px 0px 101px;
+    font-size: 12px;
+  }
+
+
+
+  .Resources{
+    margin: -35px 0px 0px 735px;
+  }
+  
+  .dropbtn4 {
+    background-color: transparent;
+    color: black;
+    padding-bottom: 18px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    margin: -14px 0px 0px 125px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 471;
+    font-style: normal;
+  }
+  
+.dropbtn4:hover {
+    color: #8072e6;
+  }
+  .dropdown4 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content4 {
+    display: none;
+    border: 1px rgba(180, 180, 180, 0.486) solid;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 250px;
+    min-height: 180px;
+    z-index: 1;
+    margin: 7px 0px 0px 130px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 371;
+    font-style: normal;
+    font-size: 13px;
+  }
+  .dropdown-content4 h4 {
+    color: gray;
+    padding: 10px 15px 0px 15px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content4 a {
+    color: black;
+    padding: 8px 16px 8px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .dropdown-content4 .ECO {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  .dropdown-content4 a:hover {
+    color: #8072e6;
+    
+}
+  
+  .dropdown4:hover .dropdown-content4 {
+    display: block;
+  }
+  .dropdown4:hover .dropdown-content4 {
+    display: block;
+  }
+  
+  .dropdown4:hover .dropbtn4 {
+    background-color: transparent;
+  }
+.dropdown-content4 .Learn{
+margin: -120px 0px -20px 0px;
+}
+
+.Blog .fa-arrow-up-right-from-square{
+  margin-left: 12px;
+  font-size: 13px;
+}
+
+.dropbtn5 {
+  background-color: transparent;
+  color: black;
+  padding: 16px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  margin: -150px 0px 0px 0px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 371;
+  font-style: normal;
+}
+
+.dropbtn5 .fa-angle-right {
+  margin: 0px 0px 0px 122px;
+  font-size: 12px;
+}
+
+.dropbtn5:hover {
+  color: #8072e6;
+}
+.dropdown5 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content5 {
+  display: none;
+  border: 1px rgba(180, 180, 180, 0.486) solid;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 300px;
+  min-height: 180px;
+  z-index: 1;
+  margin: -73px 0px 0px 250px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 371;
+  font-style: normal;
+  font-size: 13px;
+}
+.dropdown-content5 h4 {
+  color: gray;
+  padding: 10px 15px 0px 15px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content5 .On {
+  margin-top: 15px;
+}
+.dropdown-content5 .Coo {
+  margin-bottom:8px;
+  margin-top: 10px;
+}
+.dropdown-content5 a {
+  color: black;
+
+  padding: 8px 16px 8px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content5 span {
+  color: #a538f0;
+  font-weight: 500;
+}
+.dropdown-content5 a:hover {
+  color: #8072e6;
+  
+}
+
+.dropdown5:hover .dropdown-content5 {
+  display: block;
+}
+.dropdown5:hover .dropdown-content5 {
+  display: block;
+}
+
+.dropdown5:hover .dropbtn5 {
+  background-color: transparent;
+}
+
+.dropdown6 {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content6 {
+  display: none;
+  border: 1px rgba(180, 180, 180, 0.486) solid;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 300px;
+  min-height: 320px;
+  z-index: 1;
+  margin: -97px 0px 0px 250px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 371;
+  font-style: normal;
+  font-size: 13px;
+}
+.dropdown-content6 h4 {
+  color: gray;
+  padding: 10px 15px 0px 15px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content6 .On1 {
+  margin-top: 15px;
+}
+.dropdown-content6 .Coo1 {
+  margin-bottom:8px;
+  margin-top: 10px;
+}
+.dropdown-content6 a {
+  color: black;
+
+  padding: 8px 16px 8px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content6 span {
+  color: #a538f0;
+  font-weight: 500;
+}
+.dropdown-content6 a:hover {
+  color: #8072e6;
+  
+}
+
+.dropdown6:hover .dropdown-content6 {
+  display: block;
+}
+.dropdown6:hover .dropdown-content6 {
+  display: block;
+}
+
+.dropdown6:hover .dropbtn6 {
+  background-color: transparent;
+}
+
+.dropbtn6 .fa-angle-right {
+  margin: 0px 0px 0px 85px;
+  font-size: 12px;
+}
+
+
+.Plan{
+  margin: -37px 0px 0px 840px;
+  
+}
+
+.dropbtn7 {
+  background-color: transparent;
+  color: black;
+  padding-bottom: 18px;
+  font-size: 14px;
+  border: none;
+  cursor: pointer;
+  margin: -14px 0px 0px 125px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 471;
+  font-style: normal;
+}
+
+.dropbtn7:hover {
+  color: #8072e6;
+}
+.dropdown7 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content7 {
+  display: none;
+  border: 1px rgba(180, 180, 180, 0.486) solid;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 250px;
+  min-height: 120px;
+  z-index: 1;
+  margin: 7px 0px 0px 130px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 371;
+  font-style: normal;
+  font-size: 13px;
+}
+.dropdown-content7 h4 {
+  color: gray;
+  padding: 10px 15px 0px 15px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content7 a {
+  color: black;
+  padding: 8px 16px 8px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content7 .ECO {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.dropdown-content7 a:hover {
+  color: #8072e6;
+  
+}
+
+.dropdown7:hover .dropdown-content7 {
+  display: block;
+}
+.dropdown7:hover .dropdown-content7 {
+  display: block;
+}
+
+.dropdown7:hover .dropbtn7 {
+  background-color: transparent;
+}
+
+
+
+
+.SelectContainer{
+  margin: -40px 0px 0px 1025px;
+
+}
+select {
+  height: 30px;
+  width: 50px;
+  line-height: 30px;
+  font-size: 12pt;
+  background: white;
+  border: 1px rgba(139, 139, 139, 0.575) solid;
+ }
+
+ .Login{
+  margin: -50px 0px 0px 1240px;
+  
+}
+
+
+.dropbtn8 {
+  background-color: transparent;
+  color: black;
+  padding-bottom: 20px;
+  font-size: 13px;
+  border: none;
+  cursor: pointer;
+  margin: -14px 0px 0px 125px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 771;
+  font-style: normal;
+}
+
+.dropbtn8:hover {
+  color: #8072e6;
+}
+.dropdown8 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content8 {
+  display: none;
+  border: 1px rgba(180, 180, 180, 0.486) solid;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 250px;
+  min-height: 90px;
+  z-index: 1;
+  margin: 7px 0px 0px 130px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 371;
+  font-style: normal;
+  font-size: 13px;
+}
+.dropdown-content8 h4 {
+  color: gray;
+  padding: 10px 15px 0px 15px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content8 a {
+  color: black;
+  padding: 8px 16px 8px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content8 .ECO {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.dropdown-content8 a:hover {
+  color: #8072e6;
+  
+}
+
+.dropdown8:hover .dropdown-content8 {
+  display: block;
+}
+.dropdown8:hover .dropdown-content8 {
+  display: block;
+}
+
+.dropdown8:hover .dropbtn8 {
+  background-color: transparent;
+}
+
+.GetStarted {
+  margin: -43px 0px 0px 200px;
+}
+
+.GetStarted button {
+  padding: 14px 10px;
+  background: black;
+  color: white;
+  border: none;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.GetStarted button:hover{
+  background: #680ea3;
+}
+
+.Cover{
+  background-image: url(UdemyWithPartner/Header-Cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y:-35px;
+  width: 1920px;
+  height:435px;
+  margin: 10px 0px 0px -10px;
+}
+.Highlight{
+  padding: 30px 0px 0px 380px;
+}
+
+.Highlight h4{
+  font-size:55px;
+}
+
+.Paragraph{
+  margin: -50px 0px 0px 0px;
+  padding: 0px 0px 0px 380px;
+}
+
+.Paragraph h4{
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 371;
+  font-style: normal;
+}
+
+.Paragraph  h4 span{
+ padding-top: 150px;
+}
+
+.ParnterWithUs {
+  margin: 0px 0px 0px 380px;
+}
+
+.ParnterWithUs button{
+  padding: 15px 12px;
+  font-size: 15px;
+  font-weight: 600;
+  background: black;
+  color: white;
+  border: none;
+}
+
+.ParnterWithUs button:hover{
+  background: #5022c3;
+}
+
+.Parnterportallogin {
+  margin: -48px 0px 0px 525px;
+}
+
+.Parnterportallogin button{
+  padding: 13px 12px;
+  font-size: 15px;
+  font-weight: 700;
+  background: transparent;
+  color: black;
+  border: 1px solid black;
+
+}
+.Parnterportallogin button:hover{
+  background: #5022c3;
+  color: white;
+
+}
+
+.FourWay{
+  width: 1200px;
+  height: 450px;
+  border: 1px rgba(201, 201, 201, 0.541) solid;
+  margin: 95px 0px 0px 360px;
+}
+
+.HighlightFourWay h4{
+  padding: 15px 0px 0px 380px;
+  font-size: 35px;
+}
+
+.iconFourWay{
+  display: flex;
+}
+
+.iconFourWay > div img{
+  width: 60px;
+  padding: 25px 110px 0px 100px;
+}
+
+.TitleFourWay{
+  display: flex;
+}
+
+.TitleFourWay > div h4{
+  font-size: 20px;
+  margin: 20px 0px 0px 0px;
+  padding: 0px 0px 0px 85px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.DescribitionFourWay .LearnMore{
+  color: #5022c3;
+  margin: 10px 0px 0px 5px;
+}
+.DescribitionFourWay .LearnMore1{
+  color: #5022c3;
+  margin: 10px 0px 0px 25px;
+}
+.DescribitionFourWay .LearnMore2{
+  color: #5022c3;
+  margin: 10px 0px 0px -15px;
+}
+.DescribitionFourWay{
+  display: flex;
+}
+
+.DescribitionFourWay > div h4{
+  font-size: 15px;
+  margin: 20px 0px 0px 0px;
+  padding: 0px 0px 0px 78px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.DescribitionFourWay  .Over{
+  margin: -18px 0px 0px 5px;
+}
+.DescribitionFourWay  .Over1{
+  margin: -15px 0px 0px 25px;
+}
+.DescribitionFourWay  .over2{
+  margin: 10px 0px 0px -15px;
+}
+
+.TechnologyPartnerShip{
+  margin: 0px 0px 0px 360px;
+}
+
+.TitleTechnologyPartnerShip{
+  margin: 70px 0px 0px 0px;
+}
+
+.TitleTechnologyPartnerShip h4{
+  font-size: 40px;
+}
+.DescribtionTechnologyPartnerShip{
+  margin: -15px 0px 0px 0px;
+}
+.DescribtionTechnologyPartnerShip h4{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.buttonExploreProgram{
+  margin: 30px 0px 0px 0px;
+}
+.buttonExploreProgram button{
+  padding: 15px 10px;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: black;
+  color: white;
+  border: none;
+}
+.buttonExploreProgram button:hover{
+  background: #5022c3;
+}
+.ImgExploreProgram {
+  margin: -350px 0px 0px 650px;
+}
+.ImgExploreProgram img{
+  width:550px;
+}
+
+.Reseller{
+  margin: 0px 0px 0px 360px;
+
+}
+.img-Reseller{
+  margin: 50px 0px 0px 0px;
+}
+.img-Reseller img{
+  width:600px;
+}
+
+.Title-Reseller{
+  margin: -500px 0px 0px 675px;
+}
+.Title-Reseller h4{
+  font-size: 40px;
+}
+
+.Describition-Reseller{
+  margin: -10px 0px 0px 675px;
+}
+
+.Describition-Reseller h4{
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.buttonExploreReseller{
+  margin: 20px 0px 0px 675px;
+}
+
+.buttonExploreReseller button{
+  padding: 15px 10px;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: black;
+  color: white;
+  border: none;
+}
+.buttonExploreReseller button:hover{
+  background: #5022c3;
+}
+
+.Affiliate{
+  margin: 250px 0px 0px 360px;
+}
+
+.TitleTechnologyPartnerShip{
+  margin: 70px 0px 0px 0px;
+}
+
+.TitleTechnologyPartnerShip h4{
+  font-size: 40px;
+}
+.DescribtionTechnologyPartnerShip{
+  margin: -15px 0px 0px 0px;
+}
+.DescribtionTechnologyPartnerShip h4{
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.buttonExploreProgram{
+  margin: 30px 0px 0px 0px;
+}
+.buttonExploreProgram button{
+  padding: 15px 10px;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background: black;
+  color: white;
+  border: none;
+}
+.buttonExploreProgram button:hover{
+  background: #5022c3;
+}
+.ImgExploreProgram {
+  margin: -350px 0px 0px 650px;
+}
+.ImgExploreProgram img{
+  width:550px;
+}
+.FourWay1{
+  width: 1200px;
+  height: 480px;
+  border: 1px rgba(201, 201, 201, 0.541) solid;
+  margin: 95px 0px 0px 360px;
+}
+
+.FourWayScrollbar{
+  width: 1200px;
+  height: 480px;
+  border: 1px rgba(201, 201, 201, 0.541) solid;
+  margin: 0px 0px 0px 0px;
+  overflow: scroll;
+  scrollbar-color: transparent transparent;
+}
+
+.img-FourWayScrollbar img{
+  margin: 70px 0px 0px 150px;
+}
+
+.Title-FourWayScrollbar {
+  margin: -320px 0px 0px 580px;
+}
+
+.Title-FourWayScrollbar h4{
+  font-size: 30px;
+}
+
+.Creater{
+  margin: -20px 0px 0px 580px;
+}
+
+.SalesDirector{
+  margin: -12px 0px 0px 580px;
+}
+
+.SalesDirector h4{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+}
+.Second{
+  margin: -425px 0px 0px 1400px;
+  width: 1300px;
+}
+
+.Company{
+  width: 1920px;
+  height: 250px;
+  background: #3e4143;
+  margin: 150px 0px 0px -10px;
+}
+
+.TitleCompany h4{
+  font-size: 18px;
+  color: white;
+  font-weight: 500;
+  padding: 70px 0px 0px 600px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.IconCompany{
+  display: flex;
+  margin: 50px 0px 0px 420px;
+}
+
+.IconCompany > div img{
+  width: 120px;
+  margin: 0px 180px 0px 0px;
+
+}
+
+.Company1{
+  width: 1920px;
+  height: 300px;
+  background: #a435f0;
+  margin: -50px 0px 0px -10px;
+}
+
+.TitleCompany1 h4{
+  font-size: 35px;
+  color: white;
+  font-weight: 500;
+  padding: 120px 0px 0px 600px;
+  
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.IconCompany{
+  display: flex;
+  margin: 50px 0px 0px 420px;
+}
+
+.IconCompany > div img{
+  width: 120px;
+  margin: 0px 180px 0px 0px;
+
+}
+
+.ParnterWithUs1 {
+  margin: 0px 0px 0px 900px;
+}
+
+.ParnterWithUs1 button{
+  padding: 15px 12px;
+  font-size: 15px;
+  font-weight: 600;
+  background: black;
+  color: white;
+  border: none;
+}
+
+
+.ParnterWithUs1 button:hover{
+  background: white;
+  color: black;
+}
+
+
+.UdemyFooter{
+  width: 1922px;
+  height: 520px;
+  margin: -5px 0px -12px -10px;
+  background: black;
+}
+
+.ListContainer{
+  display: flex;
+  flex-direction:column;
+  margin: 0px 0px 0px 400px;
+  padding: 70px 0px 0px 0px;
+}
+.ListContainer a{
+  color: white;
+  padding: 0px 0px 20px 0px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.ListContainer a:hover{
+  color: #5022c3;
+}
+
+.ListContainer1{
+  display: flex;
+  flex-direction:column;
+  margin: -408px 0px 0px 800px;
+  padding: 60px 0px 0px 0px;
+}
+.ListContainer1 a{
+  color: white;
+  padding: 0px 0px 20px 0px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-size: 15px;
+
+  
+}
+
+.ListContainer1 a:hover{
+  color: #5022c3;
+}
+
+.ListContainer2{
+  display: flex;
+  flex-direction:column;
+  margin: -295px 0px 0px 1200px;
+  padding: 60px 0px 0px 0px;
+}
+.ListContainer2 a{
+  color: white;
+  padding: 0px 0px 20px 0px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-size: 15px;
+
+  
+}
+
+.ListContainer2 a:hover{
+  color: #5022c3;
+}
+
+.ListContainer2 .iconSocialMedia{
+  flex-direction: row;
+  display: flex;
+}
+
+.iconSocialMedia .fa-linkedin-in , .fa-facebook-f , .fa-x-twitter , .fa-instagram {
+  padding: 0px 10px 0px 0px;
+  font-size: 22px;
+}
+
+.imgListContianer .IMG1{
+  width: 100px;
+}
+
+.imgListContianer img{
+  display: flex;
+
+
+}
+
+.imgListContianer .IMG2{
+  width: 90px;
+  margin: -120px 0px 0px 110px;
+}
+
+
+.Copywriting{
+  margin: 200px 0px 0px 400px;
+}
+.img-CopyWriting img{
+  width: 80px;
+}
+
+.hr-1 {
+  margin: -40px 0px 0px -1320px;
+}
+.hr-1 .HR-11{
+  height: 30px;
+  width: 0px;
+}
+
+
+.Power{
+  margin: -40px 0px 0px 130px;
+}
+
+.Power h4{
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-size: 12px;
+}
+
+.udemy2024{
+  margin: -30px 0px 0px 1000px;
+}
+.udemy2024 h4{
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-size: 12px;
+}

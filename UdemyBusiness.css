@@ -1,0 +1,822 @@
+.Logoo img{
+    width: 200px;
+    margin: 0px 10px 0px 350px;
+}
+
+
+.List{
+    margin: -40px 0px 0px 550px;
+    display: flex;
+
+}
+.List a{
+    margin: 0px 0px 0px 50px;
+    color: black;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.login{
+    display: flex;
+    margin: -30px 0px 0px 1350px;
+}
+.login button{
+    margin: 0px 0px 0px 10px;
+    padding: 12px 15px;
+    background: black;
+    color: white;
+    border: none;
+    font-size: 15px
+}
+
+.login .B1{
+    background: transparent;
+    color: black;
+}
+.Container{
+    width: 1922px;
+    height: 600px;
+    background-image: url(Udemy/Hero-Continaer.png);
+    margin: 10px 0px 0px -10px;
+    background-size: contain;
+}
+
+.GenAI{
+    margin: 0px 0px 0px 370px;
+}
+
+.TitleGenAI{
+    padding: 40px 0px 0px 0px;
+}
+.TitleGenAI h4{
+    color: white;
+    font-size: 45px;
+}
+
+.TitleGenAI span{
+    color: #72d8ba;
+}
+
+.Describition{
+    margin: -50px 0px 0px 0px;
+}
+.Describition h4{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.button{
+    margin: 0px 0px 0px 0px;
+}
+.button button{
+    padding: 15px 12px;
+    background: white;
+    color: black;
+    border: none;
+    font-weight: 600;
+}
+.button .B1{
+    margin: 0px 20px 0px 0px;
+}
+
+.button .B2{
+    background: transparent;
+    color: white;
+    border: 1px white solid;
+}
+
+.Slide{
+    margin: 50px 0px 0px 650px;
+}
+
+.TitleSlide h4{
+    font-size: 30px;
+   
+}
+
+.Describtion h4{
+    margin: -30px 0px 0px 40px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.ListProud {
+    margin: 10px 0px 0px -125px;
+}
+
+.ListProud img{
+    width: 130px;
+    padding: 0px 5px 0px 0px;
+}
+
+.ContainerSupport{
+    width: 1920px;
+    height: 250px;
+    margin: 30px 0px -10px -10px;
+    background: #3e4143;
+}
+
+
+.TitleContainerSupport{
+    margin: 0px 0px 0px 650px;
+    padding: 20px 0px 0px 0px;
+}
+
+.TitleContainerSupport h4{
+    font-size: 20px;
+    color: white;
+   
+}
+
+.ListLogo{
+    display: flex;
+    margin:  50px 0px 0px 350px;
+}
+
+.ListLogo img{
+    width: 85px;
+    padding: 0px 90px 0px 0px;
+    
+}
+
+
+.UpSkill{
+    margin: 80px 0px 0px 550px;
+}
+
+.TitleUpSkill h4{
+    margin: 0px 0px 0px 0px;
+    font-size: 32px;
+
+}
+
+
+.HelpDrive{
+    margin: 0px 0px 0px 140px;
+}
+
+
+
+.HelpDrive h4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.ContianerEngageDevelop{
+    margin: 0px 0px 0px -100px;
+}
+.img-EngageDevelop{
+    margin: 100px 0px 0px 0px;
+}
+.img-EngageDevelop img{
+    width: 450px;
+}
+
+.List1{
+    margin: -320px 0px 0px 480px;
+}
+
+.List1 .TitleList{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.ListUl{
+    margin: 30px 0px 0px -30px;
+}
+
+.ListUl ul li{
+    padding: 10px 0px 10px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.LearnMore1{
+    margin: 30px 0px 0px -3px;
+}
+
+.LearnMore1 h4{
+    color: #5022c3;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.LearnMore1 .fa-angle-right{
+    font-size: 11px;
+   
+}
+
+
+.TitleBuildFuture{
+    margin: 155px 0px 0px 30px;
+}
+
+.TitleBuildFuture h4{
+    margin: 120px 0px 0px 15px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.ListBuil{
+    margin: 30px 0px 0px 20px;
+}
+
+.ListBuil ul li{
+    padding: 10px 0px 10px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.LearnBuil{
+    margin: 30px 0px 0px 50px;
+}
+
+.LearnBuil h4{
+    color: #5022c3;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.LearnBuil .fa-angle-right{
+    font-size: 11px;
+   
+}
+.img-BuildFutureMore{
+    margin: -305px 0px 0px 520px;
+}
+.img-BuildFutureMore img{
+    width: 430px;
+}
+
+
+.listened{
+    margin: 150px 0px 100px -560px;
+    background: #5022c3;
+    width: 1920px;
+    height: 400px;
+}
+
+
+.Logo-Listened{
+    padding: 130px 0px 0px 450px;
+}
+.Logo-Listened img{
+    width: 200px;
+}
+
+
+.TitleWeListened{
+    margin: -80px 0px 0px 850px;
+
+}
+
+.TitleWeListened h4{
+    font-size: 25px;
+    color: white;
+}
+
+
+.img-Listened{
+    margin: 0px 0px 0px 850px;
+}
+.img-Listened img{
+    width: 65px;
+    border-radius: 50px;
+}
+
+.NameSarahContianer{
+    margin: -80px 0px 0px 940px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+.DescribitonContainer{
+    margin: -10px 0px 0px 940px;
+
+}
+.DescribitonContainer h4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.Transformative{
+    width: 1940px;
+    height: 900px;
+    margin: -100px 0px -10px -580px;
+    background: #f7f9fa;
+}
+
+.TitleTransformative{
+    padding: 50px 0px 0px 700px;
+}
+
+.TitleTransformative h4{
+    font-size: 35px;
+}
+
+.DescribitionTransformtive{
+    margin: 0px 0px 0px 600px;
+
+}
+.DescribitionTransformtive h4{
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width:1100px;
+}
+
+.iconLearning {
+    display: flex;
+    margin: 80px 0px 0px 500px;
+
+}
+
+.iconLearning div{
+    margin: 0px 340px 0px 0px;
+}
+
+.TitleLearning{
+    display: flex;
+    margin: 10px 0px 0px 500px;
+}
+
+.TitleLearning div{
+    margin: 0px 200px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.TitleLearning .H1{
+    margin: 0px 260px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.DescribitionLearning{
+    display: flex;
+    margin: -30px 0px 0px 500px;
+}
+
+.DescribitionLearning > div h4 {
+    
+    margin: 20px 92px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.DescribitionLearning .Prepare{
+    margin: 0px -10px 0px 0px;
+}
+
+
+.LearnMore{
+    display: flex;
+    margin: 100px 0px 0px -1230px;
+}
+
+.LearnMore > div{
+    margin: 0px 330px 0px 0px;  
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5022c3;
+    font-weight: 500;
+}
+
+.LearnMore > .LearnMore10{
+    margin: 0px 325px 0px 0px;  
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5022c3;
+    font-weight: 500;
+}
+
+.iconLearning {
+    display: flex;
+    margin: 80px 0px 0px 500px;
+
+}
+
+.iconLearning div{
+    margin: 0px 340px 0px 0px;
+}
+
+
+.TitleLearning1{
+    display: flex;
+    margin: 10px 0px 0px 500px;
+}
+
+.TitleLearning1 div{
+    margin: 0px 295px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.TitleLearning1 .H2{
+    margin: 0px 305px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.DescribitionLearning1{
+    display: flex;
+    margin: -30px 0px 0px 500px;
+}
+
+.DescribitionLearning1 > div h4 {
+    
+    margin: 20px 104px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.DescribitionLearning1 .Prepare{
+    margin: 0px -25px 0px 0px;
+}
+.LearnMore1{
+    display: flex;
+    margin: 100px 0px 0px -1230px;
+}
+
+.LearnMore1 > div{
+    margin: 0px 320px 0px 0px;  
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5022c3;
+    font-weight: 500;
+}
+
+.LearnMore1 > .LearnMore1{
+    margin: 0px 325px 0px 0px;  
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    color: #5022c3;
+    font-weight: 500;
+}
+
+.ComprehensiveLearningExperience{
+    margin: 0px 0px 0px 50px;
+}
+
+.TitleComprehensive h4{
+    margin: 90px 0px 0px 110px;
+    font-size: 30px;
+}
+
+.DescribitonComprehensive{
+    margin: 40px 0px 0px -15px;
+}
+.DescribitonComprehensive h4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17px;
+}
+
+.CategoriesComprehensive {
+    display: flex;
+    margin: 50px 0px 0px 0px;
+}
+
+.CategoriesComprehensive > .Learn{
+    color: black;
+}
+
+.CategoriesComprehensive > div{
+    color:rgb(204, 204, 204);
+    margin: 0px 30px 0px 0px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+.CategoriesComprehensive > div:hover{
+    color:#000000;
+  
+}
+
+.LearningEcosystem{
+    margin: 120px 0px 0px -200px;
+   
+}
+
+.LearningEcosystem h4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.DescribitionEcosystem{
+    margin: 20px 0px 0px -200px;
+}
+
+.DescribitionEcosystem h4{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    font-size: 18px;
+}
+
+
+.LearnMoreButton{
+    margin: 10px 0px 0px -200px;
+}
+
+.LearnMoreButton button{
+    padding: 12px 10px;
+    color: white;
+    background: black;
+    border: none;
+    font-weight: 600;
+}
+
+
+.img-Comprehensive{
+    margin: -290px 0px 0px 270px;
+}
+.img-Comprehensive img{
+    width: 700px;
+}
+
+.LearningForOrganizationOfAllSizes{
+    width: 1942px;
+    height: 480px;
+    background: #a435f0;
+    margin: 0px 0px -10px -580px;
+}
+
+.TitleLearningForOrganizationOfAllSizes{
+    padding: 50px 0px 0px 680px;
+}
+
+.TitleLearningForOrganizationOfAllSizes h4{
+    font-size: 40px;
+    color: white;
+}
+
+.DescribtionLearningForOrganizationOfAllSizes{
+    margin: -20px 0px 0px 740px;
+}
+
+.DescribtionLearningForOrganizationOfAllSizes h4{
+    font-size: 18px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+
+.ButtonDemo {
+    margin: 50px 0px 0px 950px;
+}
+
+.ButtonDemo button{
+    padding: 12px 20px;
+    color: white;
+    background: black;
+    border: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
+
+.ButtonDemo button:hover{
+
+    background: white;
+    color: black;
+  
+}
+
+.smallTeam{
+    margin: 80px 0px 0px 850px;
+}
+
+.smallTeam h4{
+    font-size: 18px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
+
+.GetLink{
+    margin: -10px 0px 0px 920px;
+}
+.GetLink a{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.UdemyFooter{
+    width: 1922px;
+    height: 520px;
+    margin: 10px 0px -10px -560px;
+    background: black;
+}
+
+.ListContainer{
+    display: flex;
+    flex-direction:column;
+    margin: 0px 0px 0px 400px;
+    padding: 70px 0px 0px 0px;
+}
+.ListContainer a{
+    color: white;
+    padding: 0px 0px 20px 0px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.ListContainer a:hover{
+    color: #5022c3;
+}
+
+.ListContainer1{
+    display: flex;
+    flex-direction:column;
+    margin: -408px 0px 0px 800px;
+    padding: 60px 0px 0px 0px;
+}
+.ListContainer1 a{
+    color: white;
+    padding: 0px 0px 20px 0px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 15px;
+
+    
+}
+
+.ListContainer1 a:hover{
+    color: #5022c3;
+}
+
+.ListContainer2{
+    display: flex;
+    flex-direction:column;
+    margin: -295px 0px 0px 1200px;
+    padding: 60px 0px 0px 0px;
+}
+.ListContainer2 a{
+    color: white;
+    padding: 0px 0px 20px 0px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 15px;
+
+    
+}
+
+.ListContainer2 a:hover{
+    color: #5022c3;
+}
+
+.ListContainer2 .iconSocialMedia{
+    flex-direction: row;
+    display: flex;
+}
+
+.iconSocialMedia .fa-linkedin-in , .fa-facebook-f , .fa-x-twitter , .fa-instagram {
+    padding: 0px 10px 0px 0px;
+    font-size: 22px;
+}
+
+.imgListContianer .IMG1{
+    width: 100px;
+}
+
+.imgListContianer img{
+    display: flex;
+
+
+}
+
+.imgListContianer .IMG2{
+    width: 90px;
+    margin: -120px 0px 0px 110px;
+}
+
+
+.Copywriting{
+    margin: 200px 0px 0px 400px;
+}
+.img-CopyWriting img{
+    width: 80px;
+}
+
+.hr-1 {
+    margin: -40px 0px 0px -1320px;
+}
+.hr-1 .HR-11{
+    height: 30px;
+    width: 0px;
+}
+
+
+.Power{
+    margin: -40px 0px 0px 130px;
+}
+
+.Power h4{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 12px;
+}
+
+.udemy2024{
+    margin: -30px 0px 0px 1000px;
+}
+.udemy2024 h4{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 12px;
+}
