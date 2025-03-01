@@ -27,7 +27,7 @@ This project is a static web-based representation of Udemy, built using only HTM
    ```
 3. Open `index.html` in your browser.
 
-## Usage
+## 🛠 Usage
 - Navigate through different pages to explore course offerings.
 - Use the search and category features to filter courses.
 - Access dedicated pages for Udemy Business, instructors, and partners.
